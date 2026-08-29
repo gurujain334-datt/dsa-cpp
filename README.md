@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/gurujain334-datt/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/gurujain334-datt/DSA/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/gurujain334-datt/DSA/tree/master/0204-count-primes) |
+| [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/gurujain334-datt/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -38,4 +40,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gurujain334-datt/DSA/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

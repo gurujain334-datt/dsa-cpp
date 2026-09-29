@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gurujain334-datt/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/gurujain334-datt/DSA/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/gurujain334-datt/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gurujain334-datt/DSA/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gurujain334-datt/DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/gurujain334-datt/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/gurujain334-datt/DSA/tree/master/0204-count-primes) |
 ## Recursion
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/gurujain334-datt/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/gurujain334-datt/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
